@@ -115,10 +115,6 @@ opam install raylib yojson tsdl tsdl-mixer ounit2
 
 Pour exécuter le projet :
 
-## Licence
-
-Ce dépôt public est distribué sous licence MIT — voir `LICENSE` pour les détails.
-
 ```bash
   make run
 ```
@@ -128,3 +124,7 @@ Pour nettoyer les fichiers build :
 ```bash
   make clean
 ```
+
+## Licence
+
+Ce dépôt public est distribué sous licence MIT — voir `LICENSE` pour les détails.
